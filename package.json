@@ -4,6 +4,7 @@
   "description": "A react based application that enables you track expenses",
   "main": "index.js",
   "dependencies": {
+    "app": "^0.1.0",
     "parcel-bundler": "^1.12.4",
     "prettier": "^2.0.5",
     "react": "^16.13.1",
@@ -20,7 +21,8 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-prettier": "^3.1.3",
     "eslint-plugin-react": "^7.20.0",
-    "eslint-plugin-react-hooks": "^2.5.1"
+    "eslint-plugin-react-hooks": "^2.5.1",
+    "sass": "^1.26.5"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
